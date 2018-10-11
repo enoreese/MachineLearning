@@ -4,13 +4,13 @@
 This repository displays the use of various traditional machine learning techniques to analyse different types of data.
 
 ### Techniques
-Affinity Analysis
-Support Vector Machines
-Decision Trees
-Naive Bayes
-KMeans Clustering
-Nearest Neighbors
-Network X
+* Affinity Analysis
+* Support Vector Machines
+* Decision Trees
+* Naive Bayes
+* KMeans Clustering
+* Nearest Neighbors
+* Network X
 
 
 ### Dependencies
