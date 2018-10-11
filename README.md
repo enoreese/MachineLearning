@@ -15,7 +15,7 @@ Network X
 
 ### Dependencies
 
-Python 2.7. To install all the libraries, run `pip install -r requirements.txt`
+Python 2.7. To install all the libraries
 
 
 ### Table of content
